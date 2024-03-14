@@ -10,7 +10,6 @@ Does not (yet) support analog reads.
 
 Installation instructions (Linux):
 
- - Clone the following repo: https://github.com/flipperdevices/flipperzero-firmware
- - Clone this repo into flipperzero-firmware/applications_user
- - Plug in your FlipperZero
- - Run `./fbt launch_app APPSRC=flipperzero-gpioreader` from within the flipperzero-firmware folder
+1. Install [ufbt](https://github.com/flipperdevices/flipperzero-ufbt) (`pip install --upgrade ufbt`)
+2. Clone this repo: `git clone https://github.com/ecopsychologer/flipper-gpio-reader`
+3. Change directories into the repo: `cd flipper-gpio-reader`
