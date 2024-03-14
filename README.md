@@ -1,4 +1,4 @@
-# flipperzero-gpioreader
+# flipper gpio reader
 
 ![image info](./gpioreader.png)
 
